@@ -1,0 +1,27 @@
+<html>
+<h2 style="text-align: center;">가입 할 수단을 선택해 주세요.</h2>
+<p><br></p>
+<table style="width: 100%; margin-right: calc(0%);">
+    <tbody style="text-align: center;">
+        <tr>
+            <td style="width: 100%; text-align: center;">
+                <div style="text-align: center;"><strong>신용카드로 가입</strong></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<p style="text-align: center;"><br></p>
+<table style="width: 100%; margin-right: calc(0%);">
+    <tbody>
+        <tr>
+            <td style="text-align: center;">
+                <div style="text-align: center;"><strong>휴대폰으로 가입</strong></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: center;"><br></div>
+<p><br></p>
+</html>
